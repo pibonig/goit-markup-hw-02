@@ -63,6 +63,10 @@ body {
     color: var(--primary-brand);
 }
 
+.logo .highlighter {
+    color: var(--dark);
+}
+
 .logo_white {
     color: var(--white-background);
 }
